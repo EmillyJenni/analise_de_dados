@@ -36,7 +36,7 @@ paginate: true
 </p>
 
 ---
-### Proporção de Beneficiários em relação à População por Estado (mês 202001)
+### Proporção de Beneficiários em relação à População por Estado (mês 202012)
 
 <p align="center">
   <img src="./img5.png" width="72%">
